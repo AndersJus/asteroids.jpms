@@ -32,5 +32,4 @@ public class BulletControlSystem implements IEntityProcessingService, BulletSPI 
         bullet.setRadius(1);
         return bullet;
     }
-
 }
