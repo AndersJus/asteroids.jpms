@@ -6,7 +6,7 @@ Javalab uses the ServiceLoader class to implement the BulletSPI in the "Bullet" 
 
 JPMS[1] lab have declared all exports and imports for each module in the Asteroids Game, [2] together with the "provides", "with" and "uses" declarations within the various module-info.java files.
 
-SpringLab runs by the use of beans
+SpringLab runs by the use of beans in the Spring Branch of the project
 
 TestLab is done on the "Player" module specifically the class "PlayerPlugin".
 
