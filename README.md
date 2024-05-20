@@ -10,4 +10,4 @@ SpringLab runs by the use of beans in the Spring Branch of the project
 
 TestLab is done on the "Player" module specifically the class "PlayerPlugin".
 
-MicroservicesLab - todo
+MicroservicesLab integrated within the system in form of the scoring system by using the Spring RestTemplate
